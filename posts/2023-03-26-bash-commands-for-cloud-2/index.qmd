@@ -16,7 +16,7 @@ draft: false
 </figcaption>
 </center>
 
-In our previous [post](https://koushikkhan.github.io/portfolio/posts/2023-03-22-bash-commands-for-cloud-1/), we have seen examples to become confident enough for getting a grip on linux commands. This is the time now to jump into more advanced topics. Let's go.
+In our previous [post](https://koushikkhan.github.io/posts/2023-03-22-bash-commands-for-cloud-1/), we have seen examples to become confident enough for getting a grip on linux commands. This is the time now to jump into more advanced topics. Let's go.
 
 
 # Working with permissions
