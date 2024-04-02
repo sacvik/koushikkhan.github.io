@@ -2,6 +2,7 @@
 title: "Koushik Khan"
 description: "A data scientist by profession, an avid learner and a techie by heart."
 from: markdown+emoji
+toc: false
 image: "resources/img/profile-pic.jpg"
 about:
   template: trestles
@@ -10,20 +11,16 @@ about:
 resources:
   - .nojekyll
 ---
-Hello, myself Koushik Khan. I work as Principal Data Scientist at S&P Global Market Intelligence, Bangalore, India.
+# Welcome to My Portfolio
 
-I have close to nine years of industry experience in working with various analytical problems while helping stakeholders make informed decisions. 
+Hello, myself Koushik. I am working as Principal Data Scientist at S&P Global Market Intelligence, based in Bangalore, India. 
 
-This is my portfolio. I maintain my career updates and publish blog posts related to different topics that I work with over here. 
+With nearly nine years of industry experience, I specialize in tackling diverse analytical challenges and empowering stakeholders with data-driven insights.
 
-<!-- The list below is to help you navigate through the site.
+## Explore My Portfolio
 
-+ {{< fa house >}} Home: This is where you are at right now
-+ {{< fa blog >}} Blog: List of blog posts that I've written 
-+ {{< fa laptop-file >}} Projects: Links to my personal projects
-+ {{< fa bookmark >}} Bookmarks: Links to some helpful books/articles
-+ {{< fa life-ring >}} Skills: Skillset used for a curated list of projects
-+ {{< fa clipboard >}} Resume: My latest resume is attached here 
-+ {{< fa id-card-clip >}} About: About myself -->
+Here, you'll find updates on my career journey and insightful blog posts covering a range of topics relevant to my expertise. Whether it's delving into cutting-edge data science techniques or discussing industry trends, my portfolio is a hub for sharing knowledge and experiences.
 
-Thanks for taking some time to visit my portfolio.
+## Thank You for Visiting
+
+Thank you for taking the time to explore my portfolio. Feel free to reach out if you have any questions or opportunities for collaboration.
