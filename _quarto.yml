@@ -39,8 +39,9 @@ website:
 
 format:
   html:
-    theme: default
-    mainfont: system-ui
+    theme: 
+    - cosmo
+    - custom.scss
     html-math-method: katex
     mermaid: 
       theme: default
