@@ -17,7 +17,7 @@ Throughout my career journey, I've engaged in numerous projects, not all of whic
     + {{< fa screwdriver-wrench >}} Tools
         + C programming 
 
-## {{< fa briefcase >}} BCausE Enterprise Pvt. Limited (2015-2016)
+## {{< fa briefcase >}} BCausE Enterprise Pvt. Ltd. (2015-2016)
 + Development of customer segmentation model
     + {{< fa screwdriver-wrench >}} Tools
         + Clustering
@@ -52,14 +52,14 @@ Throughout my career journey, I've engaged in numerous projects, not all of whic
 + Development of data driven products in shipping analytics
     + {{< fa screwdriver-wrench >}} Tools
         + Python, PySpark, Polars 
-        + Excel, used for reporting
+        + Excel and PowerBI, used for reporting
         + Amazon AWS
         
 + Tracking green house gas emission from ships 
     + {{< fa screwdriver-wrench >}} Tools
         + Shipping data
         + Python, PySpark, Polars
-        + Excel, used for reporting
+        + Excel and PowerBI, used for reporting
         + Amazon AWS
 
 + Building data pipelines in Azure DevOps
