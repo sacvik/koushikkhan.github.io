@@ -5,7 +5,7 @@ from: markdown+emoji
 toc: false
 image: "resources/img/profile-pic.jpg"
 about:
-  template: trestles
+  template: solana
   image-shape: rounded
   image-width: 15em
 resources:
