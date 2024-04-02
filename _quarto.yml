@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Koushik's Page"
+  title: "Koushik Khan"
   site-url: "https://koushikkhan.github.io/" # makes site links work on your remote site
   favicon: "resources/img/favicon.png"
   navbar:
