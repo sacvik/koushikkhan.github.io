@@ -16,19 +16,18 @@ website:
     left:
       - href: index.qmd
         text: Home
+      
       - href: posts.qmd
         text: Blog
       - href: projects.qmd
         text: Projects
-      - href: bookmarks.qmd
-        text: Bookmarks
       - href: skills.qmd
         text: Skills
       - href: resume.qmd
         text: Resume
+      - href: about.qmd
 
     right:
-      - href: about.qmd
       - text: "{{< fa envelope size=large >}}"
         href: mailto:koushikkhan38@gmail.com
       - text: "{{< fa brands linkedin-in size=large >}}"
@@ -40,7 +39,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: default
     mainfont: system-ui
     html-math-method: katex
     mermaid: 

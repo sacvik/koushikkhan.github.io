@@ -1,9 +1,11 @@
 ---
 title: "Skills and Expertises"
 from: markdown+emoji
+resources:
+  - .nojekyll
 ---
 
-Along the journey in my career, I have worked on various projects, all of them may not be worth of mentioning. I have handpicked few of them here along with the tools and methodologies used.
+Throughout my career journey, I've engaged in numerous projects, not all of which are noteworthy. Here, I've curated a selection of key projects, showcasing the tools and methodologies employed.
 
 ## {{< fa building-columns >}} Academics
 + Digitization of class notes, preparation of project reports

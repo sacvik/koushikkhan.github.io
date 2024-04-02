@@ -11,11 +11,10 @@ about:
 resources:
   - .nojekyll
 ---
+
 # Welcome to My Portfolio
 
-Hello, myself Koushik. I am working as Principal Data Scientist at S&P Global Market Intelligence, based in Bangalore, India. 
-
-With nearly nine years of industry experience, I specialize in tackling diverse analytical challenges and empowering stakeholders with data-driven insights.
+Hello, myself Koushik. I am working as Principal Data Scientist at S&P Global Market Intelligence, based in Bangalore, India. With nearly nine years of industry experience, I specialize in tackling diverse analytical challenges and empowering stakeholders with data-driven insights.
 
 ## Explore My Portfolio
 
@@ -23,4 +22,4 @@ Here, you'll find updates on my career journey and insightful blog posts coverin
 
 ## Thank You for Visiting
 
-Thank you for taking the time to explore my portfolio. Feel free to reach out if you have any questions or opportunities for collaboration.
+Thank you for taking the time to explore my portfolio. Feel free to reach out at [koushikkhan38@gmail.com](mailto:koushikkhan38@gmail.com) if you have any questions or opportunities for collaboration.
