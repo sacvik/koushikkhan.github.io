@@ -10,7 +10,7 @@ execute:
 
 website:
   title: "Koushik's Page"
-  site-url: "https://koushikkhan.github.io/portfolio/" # makes site links work on your remote site
+  site-url: "https://koushikkhan.github.io/" # makes site links work on your remote site
   favicon: "resources/img/favicon.png"
   navbar:
     left:
