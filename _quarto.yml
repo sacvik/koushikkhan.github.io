@@ -39,9 +39,7 @@ website:
 
 format:
   html:
-    theme: 
-    - cosmo
-    - custom.scss
+    theme: [flatly, custom.scss]
     html-math-method: katex
     mermaid: 
       theme: default
