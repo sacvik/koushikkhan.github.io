@@ -14,7 +14,7 @@ resources:
 + S&P Global Inc. as Principal Data Scientist (Sep, 2023 - Present)
 + S&P Global Inc. as Sr. Data Scientist (Aug, 2021 - Aug, 2023)
 + IBM India Pvt. Ltd. as Data Scientist (Oct, 2016 - Jul, 2021)
-+ BCausE Enterprise Pvt. Ltd. as Junior Data Analyst (Oct, 2015 - Aug, 2016)
++ BCausE Enterprise Pvt. Ltd. as Data Analyst (Oct, 2015 - Aug, 2016)
 
 ## {{< fa laptop >}} Current job responsibilities
 + Leading the analytics team that analyses maritime supply chain data
