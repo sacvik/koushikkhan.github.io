@@ -29,7 +29,7 @@ website:
 
     right:
       - text: "{{< fa envelope size=large >}}"
-        href: mailto:koushikkhan38@gmail.com
+        href: mailto:koushik.khan.ds@gmail.com
       - text: "{{< fa brands linkedin-in size=large >}}"
         href: https://linkedin.com/in/koushikkhan/
       - text: "{{< fa brands x-twitter size=large >}}"
