@@ -5,7 +5,7 @@ resources:
   - .nojekyll
 ---
 
-The resume can be downloaded from [here](resources/pdf/resume/Koushik_Khan_Data_Scientist_Resume.pdf).
+Please click [here](resources/pdf/resume/Koushik_Khan_Data_Scientist_Resume.pdf) in case you want to download my resume.
 
 <iframe
     width="1000"
