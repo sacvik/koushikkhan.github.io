@@ -7,7 +7,7 @@ image: "resources/img/koushik-dp-portfolio.jpg"
 about:
   template: solana
   image-shape: rounded
-  image-width: 15em
+  image-width: 22em
 resources:
   - .nojekyll
 ---
