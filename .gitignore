@@ -1,3 +1,4 @@
-/.quarto/
-/docs/
-/index_files/
+**/.quarto/
+**/docs/
+**/index_files/
+**/.DS_Store
