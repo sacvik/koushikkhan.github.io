@@ -18,7 +18,7 @@ Hello, myself Koushik. I am working as Principal Data Scientist at S&P Global Ma
 
 ## Explore My Portfolio
 
-Here, you'll find updates on my career journey and insightful blog posts covering a range of topics relevant to my expertise. Whether it's delving into cutting-edge data science techniques or discussing industry trends, my portfolio is a hub for sharing knowledge and experiences.
+Here, you will find updates on my career journey and insightful blog posts covering a range of topics relevant to my expertise, whether it's delving into cutting-edge data science techniques or discussing industry trends.
 
 ## Thank You for Visiting
 
