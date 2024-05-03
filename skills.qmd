@@ -7,23 +7,23 @@ resources:
 
 Throughout my career journey, I've engaged in numerous projects, not all of which are noteworthy. Here, I've curated a selection of key projects, showcasing the tools and methodologies employed.
 
-## {{< fa building-columns >}} Academics
-+ Digitization of class notes, preparation of project reports
+## {{< fa briefcase >}} S&P Global Inc. (2021-Present)
++ Development of data driven products for maritime supply chain
     + {{< fa screwdriver-wrench >}} Tools
-        + $\LaTeX$
-        + R with Sweave and knitr packages
+        + Python, PySpark, Polars 
+        + Excel and PowerBI (for reporting)
+        + Amazon AWS
+        
++ Forecasting green house gas (GHG) emission from ships with the help of shipping data
+    + {{< fa screwdriver-wrench >}} Tools
+        + Python, R, PySpark, Polars
+        + Excel and PowerBI (for reporting)
+        + Amazon AWS
 
-+ Performing computations for 'Design of Experiments' problems
++ Building data pipelines in Azure DevOps
     + {{< fa screwdriver-wrench >}} Tools
-        + C programming 
-
-## {{< fa briefcase >}} BCausE Enterprise Pvt. Ltd. (2015-2016)
-+ Development of customer segmentation model
-    + {{< fa screwdriver-wrench >}} Tools
-        + Clustering
-        + Python
-        + MongoDB
-        + Python Flask, used for developing REST API
+        + R, Python, PySpark, Polars
+        + Microsoft Azure as DevOps platform
 
 ## {{< fa briefcase >}} IBM India Pvt. Ltd. (2016-2021)
 + Analysing customer complaints (a.k.a tickets) from various sources and predicting root causes using clustering and text classification respectively
@@ -32,9 +32,8 @@ Throughout my career journey, I've engaged in numerous projects, not all of whic
         + Python
         + SQL
         + ShellScript
-        + Python Flask, used for developing REST API
-        + Docker
-        + Kubernetes, used for deployment
+        + Python Flask (for developing REST API)
+        + Docker, Kubernetes (for deployment)
 
 + Serving search queries to customers by designing a small scale search engine built on customer Feedbacks and FAQs using information retrieval algorithm
     + {{< fa screwdriver-wrench >}} Tools
@@ -48,21 +47,30 @@ Throughout my career journey, I've engaged in numerous projects, not all of whic
         + R, Dplyr
         + SQL
 
-## {{< fa briefcase >}} S&P Global Inc. (2021-Present)
-+ Development of data driven products in shipping analytics
+## {{< fa briefcase >}} BCausE Enterprise Pvt. Ltd. (2015-2016)
++ Development of customer segmentation model
     + {{< fa screwdriver-wrench >}} Tools
-        + Python, PySpark, Polars 
-        + Excel and PowerBI, used for reporting
-        + Amazon AWS
-        
-+ Tracking green house gas emission from ships 
-    + {{< fa screwdriver-wrench >}} Tools
-        + Shipping data
-        + Python, PySpark, Polars
-        + Excel and PowerBI, used for reporting
-        + Amazon AWS
+        + Clustering
+        + Python
+        + MongoDB
+        + Python Flask (for developing REST API)
 
-+ Building data pipelines in Azure DevOps
++ Development of web scraping tools
     + {{< fa screwdriver-wrench >}} Tools
-        + R, Python, PySpark, Polars
-        + Microsoft Azure as DevOps platform
+        + Python
+        + Object Oriented Programming
+        + BeautifulSoup (for web scraping)
+
+## {{< fa building-columns >}} Academics
++ Digitization of class notes, preparation of project reports
+    + {{< fa screwdriver-wrench >}} Tools
+        + $\LaTeX$
+        + R with Sweave and knitr packages
+
++ Performing computations for 'Design of Experiments' problems
+    + {{< fa screwdriver-wrench >}} Tools
+        + C programming
+
++ Statistical Simulation (Bayesian Estimation, MCMC etc.)
+    + {{< fa screwdriver-wrench >}} Tools
+        + R Programming
