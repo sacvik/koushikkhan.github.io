@@ -33,7 +33,7 @@ website:
       - text: "{{< fa brands linkedin-in size=large >}}"
         href: https://linkedin.com/in/koushikkhan/
       - text: "{{< fa brands x-twitter size=large >}}"
-        href: https://www.twitter.com/koushikkhan92/
+        href: https://x.com/koushikkhan92/
       - text: "{{< fa brands github size=large >}}"
         href: https://www.github.com/koushikkhan/
 
