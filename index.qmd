@@ -1,6 +1,6 @@
 ---
 title: "Koushik Khan"
-description: "A data scientist by profession, an avid learner and a techie by heart."
+description: "A data scientist by profession, an avid learner and a techie by heart. sdsdsd"
 from: markdown+emoji
 toc: false
 image: "resources/img/koushik-dp-portfolio.jpg"
