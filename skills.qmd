@@ -7,7 +7,14 @@ resources:
 
 Throughout my career journey, I've engaged in numerous projects, not all of which are noteworthy. Here, I've curated a selection of key projects, showcasing the tools and methodologies employed.
 
-## {{< fa briefcase >}} S&P Global Inc. (2021-Present)
+
+## {{< fa briefcase >}} Tiger Analytics (2024-Present)
++ Development of various data driven solutions for clients
+    + {{< fa screwdriver-wrench >}} Tools
+        + Data Science Solutioning 
+        + Leadership
+
+## {{< fa briefcase >}} S&P Global Inc. (2021-2024)
 + Development of data driven products for maritime supply chain
     + {{< fa screwdriver-wrench >}} Tools
         + Python, PySpark, Polars 
