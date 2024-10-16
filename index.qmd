@@ -14,7 +14,7 @@ resources:
 
 # Welcome to My Portfolio
 
-Hello, myself Koushik. I am working as Principal Data Scientist at S&P Global Market Intelligence, based in Bangalore, India. With nearly nine years of industry experience, I specialize in tackling diverse analytical challenges and empowering stakeholders with data-driven insights.
+Hello, myself Koushik. I am working as Lead Data Scientist at Tiger Analytics, based in Bangalore, India. With nine years of industry experience, I specialize in tackling diverse analytical challenges and empowering stakeholders with data-driven insights.
 
 ## Explore My Portfolio
 
