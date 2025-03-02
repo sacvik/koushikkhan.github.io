@@ -1,8 +1,8 @@
 name: Render and Publish
 on:
-  push:
+  pull_request:
     branches:
-      - main  # changes pushed to this branch will trigger a build.
+      - main  # PR raised against the main branch will trigger a build.
 
 jobs:
   build-deploy:
