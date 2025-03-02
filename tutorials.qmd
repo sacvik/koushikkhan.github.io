@@ -1,0 +1,12 @@
+---
+title: "Tutorials"
+from: markdown+emoji
+resources:
+  - .nojekyll
+---
+
+This page contains tutorials that I have designed for teaching Statistics and Data Science. You can download the tutorials from the links given.
+
+| Topic            | Resource Link                       |
+|-------------------|-------------------------------------|
+| Logistic Regression| [PDF](resources/pdf/tutorials/logistic_regression_tutorial.pdf) |
