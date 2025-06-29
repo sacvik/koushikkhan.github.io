@@ -9,9 +9,9 @@ execute:
   freeze: auto
 
 website:
-  title: "Koushik Khan"
-  site-url: "https://koushikkhan.github.io/" # makes site links work on your remote site
-  favicon: "resources/img/favicon.png"
+  title: "Portfolio"
+  site-url: "https://sachinverma.github.io/" # makes site links work on your remote site
+  favicon: "resources/img/data-scientist-icon.png"
   navbar:
     left:
       - href: index.qmd
@@ -30,11 +30,11 @@ website:
 
     right:
       - text: "{{< fa envelope size=large >}}"
-        href: mailto:koushik.khan.ds@gmail.com
+        href: mailto:verma.sachin.ds@gmail.com
       - text: "{{< fa brands linkedin-in size=large >}}"
-        href: https://linkedin.com/in/koushikkhan/
-      - text: "{{< fa brands x-twitter size=large >}}"
-        href: https://x.com/koushikkhan92/
+        href: https://linkedin.com/in/vermasachinds/
+      - text: "{{< fa brands instagram size=large >}}"
+        href: https://www.instagram.com/sachin.the.11_11/
       - text: "{{< fa brands github size=large >}}"
         href: https://www.github.com/koushikkhan/
 
